@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Thanks for visiting my website!
+I'm currently a postgraduate student at the CityUHK.
+
+
 
 Zixuan Su's personal website
 ======
