@@ -11,8 +11,8 @@ main:
   - title: "Awards"
     url: /awards/    
     
-  - title: "Hobbies"
-    url: /hobbies/
+  # - title: "Hobbies"
+  #  url: /hobbies/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
