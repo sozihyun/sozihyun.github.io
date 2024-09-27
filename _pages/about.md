@@ -1,30 +1,20 @@
 ---
 permalink: /
-title: "Welcome to Zixuan Su's website"
+title: "👋🏻 Welcome to Zixuan Su's website"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm currently a postgraduate student at the CityUHK.
+👨🏻‍💻I'm a master student in the Department of Electrical Engineering at City University of Hong Kong. Prior to CityUHK,I have worked on mathematical optimization, reconfigurable antenna and topology optimization with [Assoc. Prof.Ziheng Zhou](http://itlab.fzu.edu.cn/gzl/ZhuanJi/TeacherInfo2.aspx?No=T22108) and [Prof.Zhizhang(David) Chen](https://www.dal.ca/faculty/engineering/electrical/faculty-staff/our-faculty/professors/chen-zhizhang.html)
 
-
-
-Zixuan Su's personal website
+Research Interests
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- Reconfigurable Antenna Design
+- Mathematical Optimization
+- Applied Machine Learning
 
+🔬My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Mechine Learning** and its application in Recaonfigurable Antenna Design. In a word, advanced technologies like ML and Antenna Design positively influence the life of everybody. I wish to devote my talent to this meaningful cause and bring well-being to society.
 
-Getting started
-======
-
-
-Site-wide configuration
-------
-
-
-Create content & metadata
-------
-
-
+If you are interested in any aspect of me, I am always open to discussinos and collaborations. Feel free to reach out me :D
