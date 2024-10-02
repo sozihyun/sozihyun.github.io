@@ -21,7 +21,7 @@ redirect_from:
 # Research Projects
 
 ## Optimization of Multi-element MIMO Antenna Based on Supervised Descent Method                    
-* Supervised by: Ziheng Zhou and Zhizhang (David) Chen (##IEEE Fellow##) 
+* **Supervised by**: Ziheng Zhou and Zhizhang (David) Chen (**IEEE Fellow**) 
 * Represented as a topological network structure within the forward model of a monopole antenna and multi-element antenna design, featuring a manipulable parameter matrix to enable resonant frequency switching.
 * Implemented the Supervised Descent Method as a prior condition, utilizing a genetic algorithm to generating database, and enhanced it with the Gauss-Newton Method as a physical model in order to track optimization progress at each stage. 
 * ompared their performance against the genetic algorithm and backpropagation (BP) neural networks. 
