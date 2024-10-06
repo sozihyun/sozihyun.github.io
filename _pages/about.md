@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! My name is Zixuan Su(蘇梓暄) and I'm currently a master student in the Department of Electrical Engineering at City University of Hong Kong. Prior to CityUHK, I have worked on mathematical optimization, reconfigurable antenna and topology optimization with [Assoc. Prof.Ziheng Zhou](http://itlab.fzu.edu.cn/gzl/ZhuanJi/TeacherInfo2.aspx?No=T22108) and [Prof.Zhizhang(David) Chen(IEEE Fellow)](https://www.dal.ca/faculty/engineering/electrical/faculty-staff/our-faculty/professors/chen-zhizhang.html)
+Greetings! My name is Zixuan Su(蘇梓暄) and I'm currently a master student in the Department of Electrical Engineering at City University of Hong Kong. Prior to CityUHK, I have worked on mathematical optimization, reconfigurable antenna and topology optimization with [Ziheng Zhou](http://itlab.fzu.edu.cn/gzl/ZhuanJi/TeacherInfo2.aspx?No=T22108) and [Zhizhang(David) Chen(IEEE Fellow)](https://www.dal.ca/faculty/engineering/electrical/faculty-staff/our-faculty/professors/chen-zhizhang.html)
 
 🔬Research Interests
 ======
