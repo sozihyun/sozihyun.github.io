@@ -23,7 +23,7 @@ If you are interested in any aspect of me, I am always open to discussinos and c
 
 📸Fun Facts
 ======
-I have some hobbies that balance my life, starting with photography where I love capturing both the beauty of nature and the essence of people. I also enjoy the dynamic process of creating vlogs, which lets me document my adventures and share them with others.Watching anime is another hobby that has been with me since my childhood. I'm particularly fond of 'One Piece' and 'Naruto,' series that have captivated me with their high-energy adventures, heartfelt depictions of friendship, and profound life lessons.Additionally, I have a keen interest in painting, since it allows me to give free rein to my imagination, bringing to life the most whimsical ideas that dance in my mind.
+I enjoy photography, capturing nature's splendor and people's essence. Creating vlogs lets me document and share my life's adventures. I've been an anime fan since childhood, especially loving the dynamic and emotional stories of 'One Piece' and 'Naruto'. I also love painting, which gives me the freedom to explore my imagination and create art from my thoughts.
 
 
 > The ideal design for my personal website is inspired by [Ziye MA](https://github.com/gavenma/gavenma.github.io) and foxed from https://github.com/academicpages/academicpages.github.io
