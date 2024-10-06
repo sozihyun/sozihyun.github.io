@@ -23,7 +23,7 @@ If you are interested in any aspect of me, I am always open to discussinos and c
 
 📸Fun Facts
 ======
-I enjoy photography, capturing nature's splendor and people's essence. Creating vlogs lets me document and share my life's adventures. I've been an anime fan since childhood, especially loving the dynamic and emotional stories of 'One Piece' and 'Naruto'. I also love painting, which gives me the freedom to explore my imagination and create art from my thoughts.
+I love photography for its power to capture the world's beauty and humanity's truth. Vlogging lets me share my life's exciting moments. Anime, especially 'One Piece' and 'Naruto,' has been a adolescent favorite for their compelling stories and themes of friendship. Painting liberates my imagination, turning my thoughts into reality.
 
 
 > The ideal design for my personal website is inspired by [Ziye MA](https://github.com/gavenma/gavenma.github.io) and foxed from https://github.com/academicpages/academicpages.github.io
