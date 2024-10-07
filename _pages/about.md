@@ -26,6 +26,6 @@ If you are interested in any aspect of me, I am always open to discussinos and c
 I love photography for its power to capture the world's beauty and humanity's truth. Vlogging lets me share my life's exciting moments. Anime, especially 'One Piece' and 'Naruto,' has been my adolescent favorite for their compelling stories and themes of friendship. Painting liberates my imagination, turning my thoughts into reality.
 
 
-> The ideal design for my personal website is inspired by [Ziye MA](https://github.com/gavenma/gavenma.github.io) and foxed from https://github.com/academicpages/academicpages.github.io
+[^note]:  The ideal design for my personal website is inspired by [Ziye MA](https://github.com/gavenma/gavenma.github.io) and foxed from https://github.com/academicpages/academicpages.github.io
 
 
