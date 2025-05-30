@@ -11,7 +11,7 @@ redirect_from:
 
 
 ======
-J1. Ziheng Zhou, Zubing Chen, Zixuan Su, Min Li, Zhechen Zhang, Yuehe Ge, Yueming Gao and Zhizhang (David) Chen, "Pixel-Metastructure-Assisted Subarray Decoupling for Compact MIMO Antenna Designs", May. 2025. (Submitted to **IEEE Transactions on Antenna and Propagation**)
+J1. Ziheng Zhou, Zubing Chen, Zixuan Su, Min Li, Zhechen Zhang, Yuehe Ge, Yueming Gao and Zhizhang (David) Chen, "Pixel-Metastructure-Assisted Subarray Decoupling for Compact MIMO Antenna Designs", May. 2025. (Submitted to **IEEE Transactions on Antennas and Propagation**)
 J2. Ziheng Zhou, Zixuan Su, Yanfeng Zhou, Zhechen Zhang, Zhimeng Xu and Zhizhang (David) Chen, "Antenna Matching Network Topology Optimization: Theoretical Modeling and Numerical Experiments", **Experimental Technology and Management (a core Chinese Journal)**, Aug. 2024. (Published)
 C. Ziheng Zhou, Zixuan Su, and Zhizhang (David) Chen, "Waveguide-emulated index-near-zero media for antenna applications", **2024 International Conference on Microwave and Millimeter Wave Technology (ICMMT)**, Beijing, China, May. 2024. (Invited talk) 
 
