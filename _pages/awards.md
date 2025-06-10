@@ -11,11 +11,11 @@ redirect_from:
 
 Scholarships
 ======
-* **National Encouragement Scholarship**(5000 RMB,**Three times**)
-* **Elite Student Honor** at Fuzhou University Overseas Elite Training Camp.(18000 RMB)
-* Second Prize Academic Scholarship(1000 RMB)
-* Third Prize Academic Scholarship(500 RMB,Twice)
-* Spiritual Civilisation Scholarship(400 RMB)
+* **National Encouragement Scholarship** (5000 RMB,**Three times**)
+* **Elite Student Honor** at Fuzhou University Overseas Elite Training Camp (18000 RMB)
+* Second Prize Academic Scholarship (1000 RMB)
+* Third Prize Academic Scholarship (500 RMB,Twice)
+* Spiritual Civilisation Scholarship (400 RMB)
   
 Competitions
 ======
