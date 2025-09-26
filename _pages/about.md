@@ -28,4 +28,3 @@ Generally speaking, I enjoy photography, watching anime, as well as experiencing
 
 The profile photo, captured by my girlfriend Heung Heung near 什刹海, Beijing, during our Hong Kong cultural-exchange journey.
 
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
