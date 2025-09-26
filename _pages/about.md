@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! My name is Zixuan Su (苏梓暄) and I'm currently a Ph.D. student in the Department of Electrical and Computer Engineering at Dalhousie University supervised by [Zhizhang (David) Chen (Fellow of IEEE, CAE, EIC)](https://www.dal.ca/faculty/engineering/electrical/faculty-staff/our-faculty/professors/chen-zhizhang.html). Prior to Dal, I received the M.S. degree in Electronic Information Engineering from City University of Hong Kong. I began my research journey at Fuzhou University under the supervision of [Prof. Ziheng Zhou](http://itlab.fzu.edu.cn/gzl/ZhuanJi/TeacherInfo2.aspx?No=T22108), focusing on reconfigurable antennas and topology optimization.
+Greetings! My name is Zixuan Su (Alan, 苏梓暄) and I'm currently a Ph.D. student in the Department of Electrical and Computer Engineering at Dalhousie University supervised by [Zhizhang (David) Chen (Fellow of IEEE, CAE, EIC)](https://www.dal.ca/faculty/engineering/electrical/faculty-staff/our-faculty/professors/chen-zhizhang.html). Prior to Dal, I received the M.S. degree in Electronic Information Engineering from City University of Hong Kong. I began my research journey at Fuzhou University under the supervision of [Prof. Ziheng Zhou](http://itlab.fzu.edu.cn/gzl/ZhuanJi/TeacherInfo2.aspx?No=T22108), focusing on reconfigurable antennas and topology optimization.
 
 
 🔬Research Interests
