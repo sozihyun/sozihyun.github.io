@@ -27,3 +27,5 @@ In a word, advanced technologies like ML and Reconfigurable Antenna Design posit
 Generally speaking, I enjoy photography, watching anime, as well as experiencing cities by walking around and communicating with local people.
 
 The profile photo, captured by my girlfriend Heung Heung near 什刹海, Beijing, during our Hong Kong cultural-exchange journey.
+
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
