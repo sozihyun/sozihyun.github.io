@@ -29,5 +29,3 @@ Generally speaking, I enjoy photography, watching anime, as well as experiencing
 The profile photo, captured by my girlfriend Heung Heung near 什刹海, Beijing, during our Hong Kong cultural-exchange journey.
 
 
-<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=NSuCRwIyeNRhnAfr7vrr92ROJuGFJ0KuHd0EP_sVywY"></script>
-
