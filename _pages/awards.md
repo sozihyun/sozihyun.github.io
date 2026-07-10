@@ -11,6 +11,7 @@ redirect_from:
 
 Scholarships
 ======
+* **Bruce and Dorothy Rossetti Engineering Research Scholarship** (2000 CAD)
 * **National Encouragement Scholarship** (5000 RMB,**Three times**)
 * **Elite Student Honor** at Fuzhou University Overseas Elite Training Camp (18000 RMB)
 * Second Prize Academic Scholarship (1000 RMB)
