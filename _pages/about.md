@@ -12,6 +12,7 @@ Greetings! My name is Zixuan Su (Alan, 苏梓暄) and I'm currently a Ph.D. stud
 
 🔬Research Interests
 ======
+- Computaional Electromagnetics
 - Reconfigurable Antenna Design
 - Mathematical Optimization
 - Applied Machine Learning
