@@ -11,11 +11,13 @@ redirect_from:
 ---
 # Research Outputs
 
-**J1. Ziheng Zhou (Co-first Author), Zubing Chen (Co-first Author), Zixuan Su, Min Li, Zhechen Zhang, Yuehe Ge, Yueming Gao and Zhizhang (David) Chen, "Pixel-Metastructure-Assisted Subarray Decoupling for Compact MIMO Antenna Designs", IEEE Transactions on Antennas and Propagation (TAP), Oct. 2025. (Published)** [Download here](https://doi.org/10.1109/TAP.2025.3614010)
+**J1. Q. C. Dong, Zi-Xuan Su, Qing Huo Liu, Wen Chen, Zhizhang (David)Chen, "Physics-Informed Neural Operator for Electromagnetic Inverse Scattering Problems", arXiv preprint arXiv:2603.25404, Mar. 2026. (Submitted)** [Download here](https://arxiv.org/abs/2603.25404)
 
-**J2. Ziheng Zhou, Zixuan Su, Yanfeng Zhou, Zhechen Zhang, Zhimeng Xu and Zhizhang (David) Chen, "Antenna Matching Network Topology Optimization: Theoretical Modeling and Numerical Experiments", Experimental Technology and Management (a core Chinese Journal), Aug. 2024. (Published)**  [Download here](https://sozihyun.github.io/publications/2024_Topology_Optimization_of_Antenna_Matching_Networks.pdf)
+**J2. Ziheng Zhou (Co-first Author), Zubing Chen (Co-first Author), Zixuan Su, Min Li, Zhechen Zhang, Yuehe Ge, Yueming Gao and Zhizhang (David) Chen, "Pixel-Metastructure-Assisted Subarray Decoupling for Compact MIMO Antenna Designs", IEEE Transactions on Antennas and Propagation (TAP), Oct. 2025. (Published)** [Download here](https://doi.org/10.1109/TAP.2025.3614010)
 
-**C. Ziheng Zhou, Zixuan Su, and Zhizhang (David) Chen, "Waveguide-emulated index-near-zero media for antenna applications", 2024 International Conference on Microwave and Millimeter Wave Technology (ICMMT), Beijing, China, May. 2024. (Invited talk)**
+**J3. Ziheng Zhou, Zixuan Su, Yanfeng Zhou, Zhechen Zhang, Zhimeng Xu and Zhizhang (David) Chen, "Antenna Matching Network Topology Optimization: Theoretical Modeling and Numerical Experiments", Experimental Technology and Management (a core Chinese Journal), Aug. 2024. (Published)**  [Download here](https://sozihyun.github.io/publications/2024_Topology_Optimization_of_Antenna_Matching_Networks.pdf)
+
+**C. Ziheng Zhou, Zixuan Su, and Zhizhang (David) Chen, "Waveguide-emulated index-near-zero media for antenna applications", 2024 International Conference on Microwave and Millimeter Wave Technology (ICMMT), Beijing, China, May. 2024. (Invited talk)** [Download here (Page 3)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10672424)
 
 ---  
 # Research Projects
