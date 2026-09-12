@@ -45,7 +45,7 @@ function setTheme(theme) {
 function toggleTheme() {
   const current_theme = $("html").attr("data-theme");
   const new_theme = current_theme === "dark" ? "light" : "dark";
-  localSotorage.setItem("theme", new_theme);
+  localStorage.setItem("theme", new_theme);
   setTheme(new_theme);
   redrawPlotly();
 }
@@ -66,12 +66,12 @@ if (mermaidElements.length > 0) {
   });
 }
 
-/* =========================================================================
+/* ==========================================================================
    Plotly integration script so that Markdown codeblocks will be rendered
    ========================================================================== */
 
 // Read the Plotly data from the code block, hide it, and render the chart as new node. This allows for the
-// JSON data to be retrieved when the theme is switched. The listener should only be added if the data is
+// JSON data to be retrieve when the theme is switched. The listener should only be added if the data is
 // actually present on the page.
 //
 // NOTE that plotlyDarkLayout and plotlyLightLayout will be exposed in the minimized file
@@ -134,7 +134,7 @@ function redrawPlotly() {
   });
 }
 
-/* =========================================================================
+/* ==========================================================================
    Actions that should occur when the page has been fully loaded
    ========================================================================== */
 
