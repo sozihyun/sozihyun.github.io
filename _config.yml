@@ -22,11 +22,11 @@ repository               : sozihyun/sozihyun.github.io
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Zixuan SU"
+  name             : "Zixuan Su"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
-  location         : "Festival City, Tai Wai, HK"
-  employer         : "City University of Hong Kong"
+  location         : "Room 306, Hart House"
+  employer         : "Dalhousie University"
   uri              : # URL
   email            : "zixuansu4-c@my.cityu.edu.hk" 
 
