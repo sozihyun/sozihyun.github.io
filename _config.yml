@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Zixuan Su"sereinthew""
 description              : &description "personal description"
 url                      : https://sozihyun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -55,7 +55,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # sereinthew
+  instagram        : "sereinthew"
   lastfm           : # Username
   linkedin         : in/zixuan-su-b24b66351/
   mastodon         : # URL
