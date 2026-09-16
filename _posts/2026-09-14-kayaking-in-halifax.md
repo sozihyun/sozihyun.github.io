@@ -1,6 +1,6 @@
 ---
 title: "Summer in Halifax"
-date: 2026-09-14
+date: 2026-06-10
 categories: [life]
 tags: [halifax, kayaking, summer, outdoor]
 ---
